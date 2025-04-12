@@ -1,0 +1,3 @@
+C:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework/build/CMakeFiles/02Homework.dir
+C:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework/build/CMakeFiles/ZERO_CHECK.dir

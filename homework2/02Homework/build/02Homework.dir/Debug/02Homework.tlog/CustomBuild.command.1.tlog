@@ -1,0 +1,10 @@
+^C:\USERS\NQUAD\ONEDRIVE\РАБОЧИЙ СТОЛ\HOMEWORK_SOURCE\02HOMEWORK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework" "-BC:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework/build" --check-stamp-file "C:/Users/nQuad/OneDrive/Рабочий стол/homework_source/02Homework/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
