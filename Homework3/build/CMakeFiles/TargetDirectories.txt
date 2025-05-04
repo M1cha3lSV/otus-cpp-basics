@@ -1,0 +1,3 @@
+C:/Users/nQuad/OneDrive/Рабочий стол/Homework3/build/CMakeFiles/guess_the_number.dir
+C:/Users/nQuad/OneDrive/Рабочий стол/Homework3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nQuad/OneDrive/Рабочий стол/Homework3/build/CMakeFiles/ZERO_CHECK.dir

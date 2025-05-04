@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/nQuad/OneDrive/Рабочий стол/Homework3/CMakeLists.txt
+  guess_the_number.cpp
+C:\Users\nQuad\OneDrive\Рабочий стол\Homework3\guess_the_number.cpp(13,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  guess_the_number.vcxproj -> C:\Users\nQuad\OneDrive\Рабочий стол\Homework3\build\Debug\guess_the_number.exe
